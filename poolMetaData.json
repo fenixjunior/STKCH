@@ -1,6 +1,7 @@
 {
 "name": "STKCH",
-"description": "Private Stake Pool in CH",
-"ticker": "MPN",
-"homepage": "https://fenixjunior6.wixsite.com/pvtstakepool"
+"description": "Stake Pool in Geneve-Swiss",
+"ticker": "STKCH",
+"homepage": "https://fenixjunior6.wixsite.com/pvtstakepool",
+"extended": "https://raw.githubusercontent.com/fenixjunior/extended/main/extended-meta.json"
 }
